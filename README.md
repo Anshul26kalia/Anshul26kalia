@@ -13,7 +13,7 @@ I have worked on various projects across different technologies, handling both f
 - 💡 I love **solving coding challenges** and exploring **new tech stacks**.  
 - 💞️ I’m looking to collaborate on **exciting frontend & backend projects**.  
 - 🎯 My goal is to **build scalable, high-performance applications**.  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Email](mailto:your.email@example.com)**  
+
 
 ---
 
